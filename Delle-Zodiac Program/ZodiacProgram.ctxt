@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ZodiacProgram
+comment0.text=\r\n\ This\ Class\ contains\ a\ start\ method\ that\ allows\ users\ to\ interact\ with\r\n\ the\ program,\ view\ thier\ Zodiac\ signs,\ and\ seach\ Zodiac\ start\ and\ end\ dates\r\n\ 2\ fields-\ zd,\ and\ reader\r\n\ @author\ (Vincent\ Delle)\r\n\ @version\ (version\ number\ 1)\r\n
+comment1.params=
+comment1.target=ZodiacProgram()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ ZodiacProgram\r\n\ The\ Constructor\ of\ the\ class\ ZodiacProgram,\ this\ class\ initializes\ the\ \r\n\ fields.\r\n
+comment2.params=
+comment2.target=void\ start()
+comment2.text=\r\n\ Mutator\ method\ that\ allows\ user\ to\ input\ and\ interact\ with\ the\ \r\n\ program\r\n
+numComments=3
