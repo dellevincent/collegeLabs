@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Task
+comment1.params=
+comment1.target=void\ addTask1()
+comment2.params=
+comment2.target=void\ addlist()
+comment3.params=id
+comment3.target=void\ getTask(java.lang.String)
+comment4.params=taskcalled
+comment4.target=void\ deletetask(java.lang.String)
+comment5.params=
+comment5.target=java.util.HashMap\ getList()
+numComments=6
