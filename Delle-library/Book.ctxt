@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=author\ title\ callNumber
+comment0.target=Book(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.params=author\ title
+comment1.target=Book(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=java.lang.String\ getTitle()
+comment4.params=
+comment4.target=java.lang.String\ getCallNumber()
+comment5.params=
+comment5.target=java.lang.String\ getBookDetails()
+comment6.params=author\ title\ callNumber
+comment6.target=void\ setBookDetails(java.lang.String,\ java.lang.String,\ java.lang.String)
+numComments=7

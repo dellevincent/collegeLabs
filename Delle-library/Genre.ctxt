@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=genreName
+comment0.target=Genre(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getGenreName()
+comment10.params=
+comment10.target=void\ listAllGenreBooks()
+comment11.params=author
+comment11.target=void\ listGenreBooksByAuthor(java.lang.String)
+comment2.params=
+comment2.target=java.util.ArrayList\ getBookGenreBooks()
+comment3.params=
+comment3.target=int\ getNumberOfBooks()
+comment4.params=index
+comment4.target=boolean\ bookIndexValid(int)
+comment5.params=book
+comment5.target=void\ addGenreBook(Book)
+comment6.params=author\ title\ callNumber
+comment6.target=void\ addGenreBook(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment7.params=callNumber
+comment7.target=int\ findGenreBookWithCallNumber(java.lang.String)
+comment8.params=callNumber
+comment8.target=void\ removeGenreBookWithCallNumber(java.lang.String)
+comment9.params=author
+comment9.target=void\ removeAllGenreBooksByAuthor(java.lang.String)
+numComments=12
