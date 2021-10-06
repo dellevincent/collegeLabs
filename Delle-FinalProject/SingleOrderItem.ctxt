@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=foodIItem\ quantity
+comment0.target=SingleOrderItem(FoodItem,\ int)
+comment1.params=
+comment1.target=FoodItem\ getItem()
+comment2.params=
+comment2.target=int\ getQuantity()
+comment3.params=newFoodItem
+comment3.target=void\ setItem(FoodItem)
+comment4.params=newQuantity
+comment4.target=void\ setQuantity(int)
+numComments=5

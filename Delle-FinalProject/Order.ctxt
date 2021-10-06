@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Order()
+comment1.params=
+comment1.target=java.util.ArrayList\ getOrder()
+comment2.params=newOrder
+comment2.target=void\ addOrder(SingleOrderItem)
+comment3.params=itemArray
+comment3.target=void\ removeOrder(SingleOrderItem)
+comment4.params=searchString
+comment4.target=boolean\ searchOrder(java.lang.String)
+comment5.params=
+comment5.target=double\ computeTotalCost()
+comment6.params=
+comment6.target=java.util.HashMap\ consolidateOrder()
+numComments=7
