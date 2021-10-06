@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=location
+comment0.target=Theater(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getLocation()
+comment2.params=
+comment2.target=java.util.HashMap\ getScreens()
+comment3.params=screen\ movie
+comment3.target=void\ addScreen(java.lang.Integer,\ Movie)
+numComments=4

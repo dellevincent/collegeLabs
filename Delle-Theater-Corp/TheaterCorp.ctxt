@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=corpName
+comment0.target=TheaterCorp(java.lang.String)
+comment1.params=
+comment1.target=java.lang.String\ getCorpName()
+comment2.params=
+comment2.target=java.util.ArrayList\ getTheater()
+comment3.params=
+comment3.target=java.util.HashSet\ getMovies()
+comment4.params=theater
+comment4.target=void\ addTheater(Theater)
+comment5.params=movie
+comment5.target=void\ addMovies(Movie)
+comment6.params=title\ rating
+comment6.target=void\ addMovies(java.lang.String,\ Rating)
+comment7.params=location
+comment7.target=boolean\ sellTheater(java.lang.String)
+comment8.params=
+comment8.target=void\ listAllMovies()
+comment9.params=
+comment9.target=void\ listAllTheaterMovies()
+numComments=10
