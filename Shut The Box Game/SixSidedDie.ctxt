@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SixSidedDie
+comment1.params=
+comment1.target=SixSidedDie()
+comment2.params=sides
+comment2.target=void\ display(int)
+numComments=3

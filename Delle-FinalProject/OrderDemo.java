@@ -9,6 +9,7 @@ public class OrderDemo{
     private Scanner reader;
     private HashSet<Order> order;
     private FoodItem[] food;
+ 
     public OrderDemo(){
         FoodItem f1= new FoodItem("hamberger",5.50);
         FoodItem f2= new FoodItem("fries", 3.00);
