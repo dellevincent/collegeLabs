@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Die
+comment1.params=s
+comment1.target=Die(int)
+comment2.params=
+comment2.target=int\ roll()
+comment3.params=side
+comment3.target=void\ display(int)
+numComments=4
