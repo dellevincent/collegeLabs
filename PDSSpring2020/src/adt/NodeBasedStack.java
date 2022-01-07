@@ -63,7 +63,7 @@ public class NodeBasedStack<E> implements Stack<E> {
 			throw  new EmptyStackException();
 		else {
 			while(!empty()) {
-				System.out.println(pop() + " ");
+				System.out.print(pop() + " ");
 			}	
 		}	
 	}

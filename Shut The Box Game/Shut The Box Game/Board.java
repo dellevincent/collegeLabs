@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.Random;
+import java.io.*;
 /**
  * Write a description of class Board here.
  *
@@ -18,6 +19,11 @@ public class Board
     /**
      * Constructor for objects of class Board
      */
+    
+    public static void main(String[] args) {
+    	
+    }
+    
     public Board()
     {
         die1=0;
